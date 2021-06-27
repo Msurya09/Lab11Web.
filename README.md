@@ -1,7 +1,5 @@
-# Lab12Web
-Nama : Zihan Zaenal Abidin
-NIM : 311910408
-Kelas : TI.19.B2
+# Lab11Web
+
 
 1. Membuat Database dan Tabel
 ![Screenshot (282)](https://user-images.githubusercontent.com/81241228/122742485-2f9fa200-d2b0-11eb-9f4e-7e55a642e77c.png)
